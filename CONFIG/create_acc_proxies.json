@@ -1,0 +1,9 @@
+{
+  "proxies": {
+
+    "proxy1": {
+      "proxy": "customer-asdfwad-city-sydney:fdsafa#FA@residential.ipb.cloud:7777",
+      "active": false
+    } 
+  }
+}

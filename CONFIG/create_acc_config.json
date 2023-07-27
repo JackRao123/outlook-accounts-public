@@ -1,0 +1,7 @@
+{
+    "login_proxy_file": "..\\CONFIG\\login_acc_proxies.json",
+    "create_proxy_file": "..\\CONFIG\\create_acc_proxies.json",
+    "proxy_plugins_folder": "..\\outlook-accounts\\ProxyPlugins"   ,
+    "headless": false,
+    "index": 63
+}
