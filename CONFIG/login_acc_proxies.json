@@ -1,27 +1,7 @@
 {
   "proxies": {
     "proxy1": {
-      "proxy": "142.111.248.59:20000@merchant731:123456AA",
-      "active": false
-    },
-    "proxy2": {
-      "proxy": "142.111.248.60:20000@merchant731:123456AA",
-      "active": false
-    },
-    "proxy3": {
-      "proxy": "142.111.248.101:20000@merchant731:123456AA",
-      "active": false
-    },
-    "proxy4": {
-      "proxy": "raoj6260ujwq:p2BstXngJt@181.214.130.235:50100",
-      "active": false
-    },
-    "proxy5": {
-      "proxy": "raoj6260ujwq:p2BstXngJt@181.214.130.79:50100",
-      "active": false
-    },
-    "proxy6": {
-      "proxy": "raoj6260ujwq:p2BstXngJt@181.214.130.112:50100",
+      "proxy": "142.142.353.59:40000@username:password",
       "active": false
     }
   }
